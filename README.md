@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+  🚀 Sobre Mim 
+  🔹 Foco Atual: Construindo bases sólidas em front-end e lógica de programação.
+  🔹 Objetivo: Criar projetos práticos para consolidar conhecimento!</li>  
+</div>  
 
-<!--
-**Smithandersonn/Smithandersonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Hello World"> </div>
 
-Here are some ideas to get you started:
+<div align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smithandersonn&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas" />  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div align="center"> 👨‍💻 Iniciante em Desenvolvimento | 🌱 Aprendendo:</div>  
+ 
+<div align="center"> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> 
+</div>
+
+<div align="center"> 
+  <a href="mailto:rawsmithanderson@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> 
+  <a href="https://www.linkedin.com/in/anderson-almeida-517153135"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>+
