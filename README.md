@@ -1,12 +1,14 @@
 <div align="center">
   🔹 Foco Atual: Construindo bases sólidas em front-end e lógica de programação.
-  🔹 Objetivo: Criar projetos práticos para consolidar conhecimento!
 </div>  
-
+<div align="center">
+ 🔹 Objetivo: Criar projetos práticos para consolidar conhecimento!
+</div>  
 <div align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Hello World"> </div>
 
 <div align="center"> 
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smithandersonn&layout=compact&theme=radical)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smithandersonn&layout=compact&theme=radical)
 </div>
 
  <div align="center"> 👨‍💻 Iniciante em Desenvolvimento | 🌱 Aprendendo:</div>  
