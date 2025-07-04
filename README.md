@@ -7,7 +7,8 @@
 <div align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Hello World"> </div>
 
 <div align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smithandersonn&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas" />  
+  
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smithandersonn&layout=compact&theme=radical)
 </div>
 
  <div align="center"> 👨‍💻 Iniciante em Desenvolvimento | 🌱 Aprendendo:</div>  
